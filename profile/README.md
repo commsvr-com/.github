@@ -41,10 +41,10 @@ The family includes the following applications.
 [Download]:https://github.com/orgs/commsvr-com/projects
 [OPCUA.Viewer]:https://github.com/mpostol/OPCUA.Viewer
 [OPCUA.Server]:https://github.com/mpostol/OPCUA.Server
-[OPCDA.DataPorter]:https://github.com/mpostol/OPCDA.DataPorter
-[OPCDA.Server]:https://github.com/mpostol/OPCDA.Server
+[OPCDA.DataPorter]:https://github.com/commsvr-com/OPCDA.DataPorter
+[OPCDA.Server]:https://github.com/commsvr-com/OPCDA.Server
 [ASMD]:https://github.com/mpostol/ASMD
-[OPCDA.Viewer]:https://github.com/mpostol/OPCDA.Viewer
+[OPCDA.Viewer]:https://github.com/commsvr-com/OPCDA.Viewer
 [migration2os]:https://github.com/commsvr-com/migration2os
 [wordpress.sponsors]:https://mpostol.wordpress.com/2020/01/03/opc-ua-makes-machine-centric-global-village-possible-call-for-sponsors/
 [AboutPartnershipProgram]:https://github.commsvr.com/AboutPartnershipProgram.md.html
