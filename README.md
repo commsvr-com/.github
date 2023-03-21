@@ -49,14 +49,6 @@ The family includes the following applications.
 [wordpress.sponsors]:https://mpostol.wordpress.com/2020/01/03/opc-ua-makes-machine-centric-global-village-possible-call-for-sponsors/
 [AboutPartnershipProgram]:https://github.commsvr.com/AboutPartnershipProgram.md.html
 
-<!--
-**Here are some ideas to get you started:**
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
 <table style="font-size: 11px;" title="Bottom navigation menu" border="0" cellspacing="20" cellpadding="1" align="center">
     <tbody title="CommServer">
         <tr align="center" valign="middle" border="0" >
@@ -108,3 +100,11 @@ The family includes the following applications.
         </tr>
     </tbody>
 </table>
+
+<!--
+**Here are some ideas to get you started:**
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
