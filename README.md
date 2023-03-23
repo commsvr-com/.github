@@ -1,10 +1,10 @@
-![CAS LOGO](.media/BANER.gif)
+![CommServer BANER](.media/BANER.gif)
 
 # Default CommServer Profile Files
 
 ## Hi there 👋
 
-![CAS LOGO](.media/logo2.png)
+![CommServer LOGO](.media/logo2.png)
 
 To get more about CAS click [more](https://github.com/commsvr-com)
 
