@@ -1,7 +1,10 @@
+![CommServer BANER](.media/BANER.gif)
 
 # CommServer software family
 
 ## Hi there 👋
+
+![CommServer LOGO](.media/logo2.png)
 
 ## 🙋‍♀️ A short introduction
 
