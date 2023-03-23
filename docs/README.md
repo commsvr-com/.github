@@ -6,7 +6,7 @@
 
 ![CommServer LOGO](.media/logo2.png)
 
-To get more about CAS click [more](https://github.com/commsvr-com)
+To get more about CommServer click [more](https://github.com/commsvr-com)
 
 <table style="font-size: 11px;" title="Bottom navigation menu" border="0" cellspacing="20" cellpadding="1" align="center">
     <tbody title="CommServer">
