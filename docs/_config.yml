@@ -1,2 +1,2 @@
-theme: pages-themes/minimal
-logo: .media/logo2.png
+remote_theme: pages-themes/minimal@v0.2.0
+logo: /.media/logo2.png
