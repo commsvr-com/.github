@@ -94,12 +94,6 @@ The family includes the following applications.
                 <br /> <span style="color: #07ad36;">Twitter</span> 
               </a>
             </td>
-            <td title="CAS">
-              <a title="CAS" href="http://www.cas.eu" target="_blank"> 
-                <img src="../.media/bottom_cas.png" alt="CAS" align="texttop" border="0" />
-                <br /> <span style="color: #07ad36;">CAS</span> 
-              </a>
-            </td>
         </tr>
     </tbody>
 </table>

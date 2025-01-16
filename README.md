@@ -1,6 +1,6 @@
-![CommServer BANER](.media/BANER.gif)
-
 # Default CommServer Profile Files
+
+![CommServer BANER](.media/BANER.gif)
 
 ## Hi there 👋
 
@@ -48,12 +48,6 @@ To get more about CommServer click [more](https://github.com/commsvr-com)
                 <img title="Follow CommServer on Twitter" src=".media/bottom_twitter.png" alt="Follow CommServer on Twitter " align="texttop"
                         border="0" />
                 <br /> <span style="color: #07ad36;">Twitter</span> 
-              </a>
-            </td>
-            <td title="CAS">
-              <a title="CAS" href="http://www.cas.eu" target="_blank"> 
-                <img src=".media/bottom_cas.png" alt="CAS" align="texttop" border="0" />
-                <br /> <span style="color: #07ad36;">CAS</span> 
               </a>
             </td>
         </tr>
